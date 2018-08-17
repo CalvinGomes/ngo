@@ -1,0 +1,105 @@
+body{
+    overflow-x: hidden;
+}
+
+.backgrounds{
+    min-height: 100vh;
+    max-height: 100vh;    
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.vertical-align {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.btn{
+    border-radius: 0px;
+    width: 150px;
+    height: 50px;
+}
+
+
+#landingPage {
+    background-color:blueviolet;
+}
+
+
+
+#quote1{
+    min-height: 40vh!important;    
+    background-color:turquoise;   
+}
+
+
+#objectives .pics{
+    min-height: 100vh;    
+}
+
+#objectives .pic1 {
+    background-color: red;
+}
+
+#objectives .pic2 {
+    background-color: blue;
+}
+
+#objectives .pic3 {
+    background-color: greenyellow;
+}
+
+#objectives .pic4 {
+    background-color: yellow;
+}
+
+#objectives .pic5 {
+    background-color: yellow;
+}
+
+#objectives .pic6 {
+    background-color: greenyellow;
+}
+
+#objectives .pic7 {
+    background-color: blue;
+}
+
+#objectives .pic8 {
+    background-color: red;
+}
+
+
+
+#quote2{
+    min-height: 40vh!important;    
+    background-color:rgb(224, 64, 197);   
+}
+
+
+
+#contact {
+    background-color:rgb(87, 230, 98);
+}
+
+
+
+
+@media screen and (max-width: 600px) {
+
+
+
+}
+
+@media screen and (max-width: 600px) {
+    
+        
+}
